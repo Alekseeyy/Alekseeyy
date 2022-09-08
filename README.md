@@ -14,7 +14,19 @@
 Второе приложение - клиент чата, подключается к серверу чата и осуществляет доставку и получение новых сообщений.
 Все сообщения должны записываться в file.log как на сервере, так и на клиентах. File.log должен дополняться при каждом запуске, а также при отправленном или полученном сообщении. Выход из чата должен быть осуществлен по команде exit.
 
-3. [Курсовой проект «Конвертер в текстовую графику» ](https://github.com/Alekseeyy/Converter_to_text_graphics)<br/>
+3. [Курсовой проект «Конвертер в текстовую графику»](https://github.com/Alekseeyy/Converter_to_text_graphics)<br/>
 **Задачи:** Необходимо написать логику скачивания картинки по URL и перевода ее в текстовую графику. Серверная часть и веб-страница уже написаны, вам необходимо будет интегрировать вашу часть в заготовку проекта так, чтобы получилось полноценное приложение.
 
 [Домашние задания по курсу «Java-разработчик»](https://github.com/Alekseeyy/jd-homeworks)
+
+## Сертификаты Нетологии:
+
+* [Java-разработчик](https://github.com/Alekseeyy/Alekseeyy/blob/master/certificate.pdf)
+* [Основы Java](https://github.com/Alekseeyy/Alekseeyy/blob/master/certificate%20(1).pdf)
+* [Git — система контроля версий](https://github.com/Alekseeyy/Alekseeyy/blob/master/certificate%20(2).pdf)
+* [Java Core](https://github.com/Alekseeyy/Alekseeyy/blob/master/certificate%20(3).pdf)
+* [Шаблоны проектирования](https://github.com/Alekseeyy/Alekseeyy/blob/master/certificate%20(4).pdf)
+* [Многопоточное и функциональное программирование](https://github.com/Alekseeyy/Alekseeyy/blob/master/certificate%20(5).pdf)
+* [Web, Spring & Spring MVC](https://github.com/Alekseeyy/Alekseeyy/blob/master/certificate%20(6).pdf)
+* [Spring Boot, deployment и инфраструктура](https://github.com/Alekseeyy/Alekseeyy/blob/master/certificate%20(7).pdf)
+* [Хранение данных и организация безопасности](https://github.com/Alekseeyy/Alekseeyy/blob/master/certificate%20(8).pdf)
